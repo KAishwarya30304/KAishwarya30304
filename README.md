@@ -1,83 +1,36 @@
-AISHWARYA K
+# 👋 Hi there, I'm Aishwarya K!  
 
-𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗽𝗿𝗼𝗳𝗶𝗹𝗲: https://www.linkedin.com/in/aishwarya-k-0111102ba.
+### 🌟 About Me  
+I am a **Full Stack Developer in the making**, pursuing a **Master's course in Full Stack Java** with a passion for **web development** and creating impactful applications. Currently, I am pursuing my **B.Tech in Information Technology** and aspire to work abroad to expand my horizons.  
 
-Objective:
+### 💻 What I'm Working On  
+- **FemiRiders**: A full-stack application exclusively for women, inspired by Rapido.  
+  - 🚲 **Taglines**: "Her Ride, Secure Journey" and "Her Path, Protected Always."  
+  - 🛠 Tech Stack: Java-based backend with a focus on security and usability.  
+  - 🌍 Goal: Empower women with safer, more inclusive transportation options.  
 
-I am eager to bring my technical skills and innovative mindset to a dynamic organization, contributing to its
-growth and success. I aim to leverage my technology skills effectively. Seeking to utilize my technical skills and
-educational background in IT to thrive in a challenging environment, contribute proactively to company objectives,
-and foster innovation."
+- **Mehndi Portal System**: A GUI-based management system built with Python (Tkinter) and PostgreSQL for organizing and managing mehndi design categories.  
 
-𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦 :
+### 🔧 Skills and Tools  
+- **Programming Languages**: Java, Python, HTML, CSS, JavaScript  
+- **Frameworks & Libraries**: Spring Boot, React, Tkinter  
+- **Databases**: PostgreSQL, MySQL  
+- **Tools**: Git, GitHub, VS Code  
 
-Programming Languages: basis programming Languages C, Python, Java
-Data Structures: Strong understanding of fundamental data structures
-Web Development: Built an e-commerce inventory management site (Python front end, PostgreSQL back end)
-Full Stack Development: Completed internship in full stack development
+### 🏆 Highlights  
+- Built applications ranging from **password strength checkers** to **stock price fluctuation analyzers**.  
+- Developed **matrix operations programs** and **temperature data analysis tools** in Java.  
+- Constantly learning and building projects that solve real-world problems.  
 
-𝗢𝗥𝗚𝗔𝗡𝗜𝗭𝗔𝗧𝗜𝗢𝗡 𝗔𝗡𝗗 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗦𝗞𝗜𝗟𝗟𝗦:
+### 📌 Interests  
+- Web development and creating user-friendly interfaces.  
+- Exploring new frameworks and technologies to enhance my skillset.  
+- Advocating for women's safety and empowerment through technology.  
 
-Project Management: Managed development projects
-Time Management: Efficiently prioritize tasks and meet deadlines
+### 🌍 Let's Connect!  
+- 💼 [LinkedIn: Aishwarya K](https://www.linkedin.com/in/aishwarya-k-0111102ba)  
+- 📫 Preferred Job Role: **Full Stack Developer**  
+- 🌏 Preferred Job Location: **Coimbatore or abroad**  
 
-𝗦𝗢𝗙𝗧 𝗦𝗞𝗜𝗟𝗟𝗦 :
+Feel free to check out my repositories and contributions to see what I’ve been up to! 🚀
 
-Adaptability: Thrives in challenging environments
-Problem-Solving: Skilled at resolving technical issues
-Team Collaboration: Effective in collaborative settings
-
-𝗖𝗥𝗘𝗔𝗧𝗜𝗩𝗘 𝗦𝗞𝗜𝗟𝗟𝗦:
-
-Drawing : Talent in mandala art
-Tattoo Artistry: Completed training as a tattoo artist
-Beautician: Basic skills in beautician services
-Projects
-
-𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝘀𝘆𝘀𝘁𝗲𝗺 :
-
-Developed an inventory management system as a mini project for an e-commerce application.
- Implemented using Python for the front end and PostgreSQL for the back end database management.
-Integrated Tkinter for the graphical user interface, facilitating efficient inventory tracking and management.
-Achievements & Awards
-
-𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽:
-
-Completed a full-stack internship at Appin Technology.
-
-𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝗱 𝗔𝗻𝗱 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽𝘀 𝗼𝗻:
-
-APPXCELERATE - Training on Power Apps
-
-Internet of Things (IoT)
-
-Elevate UI - Web Designing
-Deep Dive into Data - Training on Data Science
-Successfully completed a mini project on inventory management for an e-commerce site.
-
-Languages:
-
-Tamil
-Hindi
-English -read and write
-
-Certification;
-
-Name of Certification: Deep Dive into Data - Training on Data Science
-Issuing Organization: RAISE Centre of Excellence, AIC RAISE
-Date of Completion: 3.5.2023
-Name of Certification: ELEVATE UI - WEB DESIGNING
-Issuing Organization: RAISE Centre of Excellence, AIC RAISE
-Date of Completion: 12.08.2023
-Name of Certification: APPXCELERATE - TRAINING ON POWER APPSIssuing Organization: RAISE Centre of
-Excellence, AIC RAISE
-Date of Completion: 10.06.2023
-Name of Certification: INTERNET OF THINGS (IoT)
-Issuing Organization: RAISE Centre of Excellence, AIC RAISE
-Date of Completion: 21.01.2023 
-
-Extracurricular Activities;
-
-Sports: Active participation in [specific sports, e.g.badminton,throwball etc.]
-Drawing and Painting
-Learning IQ-Based Questions:to enhance problem-solving and critical thinking skills
